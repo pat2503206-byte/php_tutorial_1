@@ -17,7 +17,7 @@
     </body>
  </html>
 
-  define('NAME', 'Fateh');
+  define('NAME', 'patrick');
 
   // $name = "Yoshi";
 
